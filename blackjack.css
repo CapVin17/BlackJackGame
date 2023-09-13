@@ -1,0 +1,70 @@
+#bady{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#new{
+    height: 410px;
+    width: 400px;
+    /* color: green; */
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: green;
+    border: 8px solid yellow;
+}
+
+#heading{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    font-size: xx-large;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+#question{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    padding-bottom: 30px;
+}
+
+#dabado{
+    height: 40px;
+    width: 155px;
+    margin-top: 30px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#dabado:hover{
+    color: goldenrod;
+    background-color: green;
+}
+
+#dabado2{
+    height: 40px;
+    width: 155px;
+    margin-top: 5px;
+    font-size: large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#dabado2:hover{
+    color: goldenrod;
+    background-color: green;
+}
+
+#player-el{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
